@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.me,
+.no-me {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.me {
+    background-color: rgb(10, 9, 9);
+    color: rgb(225, 229, 233);
+}
+
+.no-me {
+    background-color: rgb(240, 240, 55);
+}
